@@ -79,7 +79,7 @@ a:hover{
 #menu{
     position: absolute;
     width: 300px;
-    height: 100vh;
+    height: calc(100vh + 100px);
     margin: -100px 0 0 -50px;
     padding-top: 155px;
     background: #f1ef76;
